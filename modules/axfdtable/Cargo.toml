@@ -5,8 +5,8 @@ edition = "2021"
 authors = ["Yiding Wang <jdk_123456@tju.edu.cn>"]
 description = "fd table for arceos file system"
 license = "Mulan PSL v2"
-homepage = "https://github.com/DINGBROK423/arceos.git"
-repository = "https://github.com/DINGBROK423/arceos.git"
+homepage = "https://github.com/DINGBROK423/arceos"
+repository = "https://github.com/DINGBROK423/arceos"
 
 [features]
 default = []
